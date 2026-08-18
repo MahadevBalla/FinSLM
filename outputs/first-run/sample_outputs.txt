@@ -1,0 +1,35 @@
+PROMPT: The Federal Reserve raised interest rates by
+OUTPUT: The Federal Reserve raised interest rates by 25 basis points since August 2011 to spur growth and boost the U.S. currency. European Central Bank President Mario Draghi said yesterday the ECB had its benchmark interest rate at a record low of zero to 0.3 percent at 3.75 percent. The ECB will ask for “some discussion” on inflation, even as the ECB’s economic and monetary policy makers want to cut borrowing costs. The Frankfurt-based ECB will probably consider its benchmark interest rate at its June summit this month at its meeting on March 4. “Exchange instruments are still a haven’t
+
+======================================================================
+
+PROMPT: Reliance Industries reported a quarterly profit of
+OUTPUT: Reliance Industries reported a quarterly profit of HK$7.5 billion on a net loss of HK$7.3 billion, or HK$6.16 a share, compared with HK$3.6 billion, a year earlier, according to the statement. That compares with the HK$10.6 billion average of nine analyst estimates compiled by Bloomberg. The Hang Seng Index gained 0.3 percent to 16,972.83. The Shanghai Composite Index slipped 0.9 percent to close at 25.38. China’s Hang Seng Index declined 0.6 percent to 15,957.29. China
+
+======================================================================
+
+PROMPT: The Sensex fell sharply after
+OUTPUT: The Sensex fell sharply after the greenback weakened 0.5 percent against the U.S. dollar as a global trade war eased to its weakest level in more than two decades. It was down 1.5 percent at 2,973.50 as of the 4 p.m. close of trading, after climbing to a 12-month low of 1,566.30.
+The S&P 500 was up 5.4 percent, with the broader S&P added 1.5 percent and the dollar also gained 1.8 percent.
+On the back of the session, the Sensex rose 1
+
+======================================================================
+
+PROMPT: Inflation in India reached
+OUTPUT: Inflation in India reached a record $5.6 billion in February and is expected to increase to $4.7 billion this year. The world’s biggest inflation rate was unchanged in February. The central bank expects the central bank to keep interest rates unchanged at 0.25 percent and boost borrowing costs unchanged for the first time since 2009 to support the economy. The central bank also will give monetary policy chief to keep interest rates low until the next meeting on Oct. 4. The central bank “will keep its key rate unchanged at the highest level since 2011,” said Rajoy , a strategist at P
+
+======================================================================
+
+PROMPT: Goldman Sachs analysts warned that
+OUTPUT: Goldman Sachs analysts warned that the world’s biggest oil producer is likely to be looking for higher prices over the next five years.
+Analysts are waiting to see that stocks are not up, though they may prefer a bit more important than they may have.
+“If the market does look good enough to avoid the market, the stocks are going to be seen as a part of the market,” said Cramer.
+Meanwhile, the Dow Jones Industrial Average ended up 0.2 percent at $1,099.58. BMO Capital Markets is still one of the two most important sectors.
+
+======================================================================
+
+PROMPT: The merger between
+OUTPUT: The merger between the $10 billion takeover of the U.S. venture is expected to be completed by the end of this year, the London-based carrier said in a statement today. The company will issue a 1 billion-pound ($3.3 billion) loan at the end of 2015, according to a person familiar with the plans. Shares of Lufu’s board rose as much as 2.3 percent. To contact the reporter on this story: Robert Hutton in London at  rhutton1@bloomberg.net  To contact the editor responsible for this story: Jerro
+
+======================================================================
+
